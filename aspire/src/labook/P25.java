@@ -15,5 +15,6 @@ public class P25 {//User Inputting Array Elements
 			sum = sum+num;
 		}
 		System.out.println("Sum of array elements is:"+sum);
+		scn.close();
 	}
 }
